@@ -1,0 +1,41 @@
+.container{
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 30px;
+}
+
+body{
+  background: linear-gradient(to right, #000046, #1cb5e0);
+
+}
+
+.modal{
+    font-family: 'Quicksand', sans-serif;
+}
+.link {
+    text-decoration: none;
+    color:black;
+}
+
+.name{
+    color: linear-gradient(to right,#0cebeb, #20e3b2, #29ffc6);
+}
+
+
+.card{
+    cursor: pointer;
+}
+
+.card:hover{
+    background: linear-gradient(to right,#0cebeb, #20e3b2, #29ffc6);
+
+}
+.down{
+    margin-top: 40px;
+}
+
+.bio{
+    text-align: justify;
+}
+
+
+
